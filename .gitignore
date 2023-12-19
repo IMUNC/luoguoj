@@ -1,0 +1,7 @@
+$ cat .gitignore
+luoguoj.sln
+luoguoj.vcxproj
+luoguoj.vcxproj.filters
+luoguoj.vcxproj.user
+x64/
+.vs/
